@@ -216,3 +216,13 @@ Module 1 uses the required fixed conversion rate:
 
 Module 3 supports deterministic local mock inference and local
 embedding/vector-search components.
+
+---
+
+## Submission Status
+
+All three capstone modules are implemented and organized within this repository:
+
+- Module 1 — Data Pipeline
+- Module 2 — Analytics Pipeline
+- Module 3 — GenAI Support Assistant
