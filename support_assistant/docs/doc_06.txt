@@ -1,0 +1,11 @@
+ZEPT0 DAMAGED OR MISSING ITEM POLICY
+
+If an order arrives with damaged, spoiled, or missing items, customers
+must report it within 24 hours of delivery through the Report an Issue
+button on the order page.
+
+Zepto ships a free replacement or issues a full refund for damaged,
+spoiled, or missing items.
+
+If the order value exceeds INR 1000, a photo of the issue must be
+submitted before a replacement or refund is processed.

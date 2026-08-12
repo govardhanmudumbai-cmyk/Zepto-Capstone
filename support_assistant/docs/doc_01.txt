@@ -1,0 +1,13 @@
+ZEPT0 DELIVERY POLICY
+
+Zepto delivers grocery and household essentials to serviceable pin codes
+within 10 to 30 minutes of order confirmation, depending on the customer's
+delivery zone and current order volume.
+
+Standard delivery is free on orders over INR 149.
+
+Orders below INR 149 incur a flat INR 25 delivery fee.
+
+Priority delivery is available at checkout for an additional INR 15.
+
+Zepto does not deliver to addresses outside its listed serviceable pin codes.
